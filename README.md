@@ -47,4 +47,3 @@ Integrates **Dialogflow NLP** with a **Django web application** to provide real-
 ## 🚀 About
 
 This project deepened understanding of building **domain-specific AI solutions** for real-world problems like student admissions.
-# unibot-dialogflow
